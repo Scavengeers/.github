@@ -1,6 +1,8 @@
 # Tokyo Noire
 
-## Abstract
+## Statement of purpose
+
+Building on the interactive nature of geocaching apps and the principles of scavenger hunts
 
 **#Soon**
 
